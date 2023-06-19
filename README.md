@@ -7,4 +7,6 @@ ppt link      :
 [Detecting Grape Leaf Disease and Classification using Machine Learning.pptx](https://github.com/Bhanu5423/project-grape-leaf/files/11785135/Detecting.Grape.Leaf.Disease.and.Classification.using.Machine.Learning.pptx)
 
 
+
+
  
